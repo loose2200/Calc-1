@@ -9,7 +9,7 @@ public class SimpleCalculator {
 	 result = x-y;
  }
  
- public int GetResult(){
+ public int getResult(){
 	 return result;
  }
 
